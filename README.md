@@ -1,5 +1,5 @@
 # CSS-BOOTCAMP
-# 1 day Assignment 
+# 1 Day Assignment .
 
 1.1 - https://css-boot-camp-ass-11.hiteshkrishansh.repl.co/
 
@@ -9,7 +9,7 @@
 
 1.4 - https://assignment-14.hiteshkrishansh.repl.co/
 
-# 2 Day Assignment
+# 2 Day Assignment .
 
  2.1 - https://demo.hiteshkrishansh.repl.co/
  
@@ -19,11 +19,11 @@
  
  2.4 - https://assignment-24.hiteshkrishansh.repl.co/
 
- # 3 Day 
+ # 3 Day .
 
  # https://3-day.hiteshkrishansh.repl.co/
 
-#3 Day Assignment
+#3 Day Assignment .
 
 3.1 - 
  
