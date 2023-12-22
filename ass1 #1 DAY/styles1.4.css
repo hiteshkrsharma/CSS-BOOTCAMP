@@ -1,0 +1,38 @@
+body{
+    margin-top: 5%;
+}
+
+.container{
+    text-align: center;
+}
+
+.header{
+    font-size: 67px;
+}
+
+.subheader{
+    font-size: 20px;
+}
+
+.container > form > input{
+    padding: 10px;
+    margin: 10px;
+    width: 30%;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    padding: 1%;
+    border-radius: 25px;
+    width: 17%;
+    font-size: 17px;
+    font-weight: 600;
+    margin: 17px;
+    cursor: pointer;
+}
+
+.info{
+    color: gray;
+    margin: 20px 0;
+}

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;500&display=swap');
+
+.container{
+    width: 45%;
+    height: 75vh;
+    border: 3px solid rgb(210, 163, 163);
+    /* border-radius: ; */
+    font-family: 'Poppins', sans-serif;
+    margin: 10% 27%;
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+}
+
+.heroImage{
+    width: 100%;
+    height: 25%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.icon{
+    border-radius: 50%;
+    width: 100px;
+    margin-left: 40%;
+    margin-top: -10%;
+    border: 3px solid white;
+}
