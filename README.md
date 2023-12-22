@@ -11,7 +11,7 @@
 
 # 2 Day Assignment .
 
- 2.1 - https://demo.hiteshkrishansh.repl.co/
+ 2.1 - https://assignment-21.hiteshkrishansh.repl.co/
  
  2.2 - https://assignment-22.hiteshkrishansh.repl.co/
 
