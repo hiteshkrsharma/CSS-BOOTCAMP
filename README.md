@@ -25,5 +25,5 @@
 
 #3 Day Assignment .
 
-3.1 - 
+3.1 - https://day-3-assignment.hiteshkrishansh.repl.co/
  
